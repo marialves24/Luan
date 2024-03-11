@@ -28,4 +28,9 @@
 
     .bar {
         background-image: -o-linear-gradient(rgb(186, 119, 115) rgb(101, 68, 67));
+        color: #614242;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
     }
